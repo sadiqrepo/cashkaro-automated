@@ -1,0 +1,535 @@
+2018-12-28 13:09:50,462  INFO : 86 --  Chrome_FBSignUpTest--Test start
+
+2018-12-28 13:09:50,476  INFO : 21 --  Selected browser is: chrome
+2018-12-28 13:09:54,230  INFO : 21 --  Before Login
+2018-12-28 13:09:54,231  INFO : 44 --  
+****************************************************************************************
+2018-12-28 13:09:54,231  INFO : 46 --  ****************************************************************************************
+2018-12-28 13:09:54,232  INFO : 48 --  $$$$$$$$$$$$$$$$$$$$$                 FBSignUpTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2018-12-28 13:09:54,232  INFO : 50 --  ****************************************************************************************
+2018-12-28 13:09:54,233  INFO : 52 --  ****************************************************************************************
+2018-12-28 13:09:54,311  INFO : 92 --  [TestClass name=class scenarios.FBSignUpTest]:navigateToCashKaroPage--Test Started->
+2018-12-28 13:09:54,313  INFO : 21 --  Navigating to cashkaro page
+2018-12-28 13:09:57,319  INFO : 98 --  Test 'navigateToCashKaroPage'  PASSED  
+2018-12-28 13:09:57,319  INFO : 107 --  Priority of this method is 0
+
+
+2018-12-28 13:09:57,320  INFO : 109 --  Priority of this method is 0
+2018-12-28 13:09:57,320  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:09:59,614  INFO : 21 --  screenshots/Success//FBSignUpTest_28-Dec-2018__01_09PM/navigateToCashKaroPage/FBSignUpTest.navigateToCashKaroPage.png
+
+
+
+2018-12-28 13:09:59,615  INFO : 92 --  [TestClass name=class scenarios.FBSignUpTest]:navigateToJoinFreePage--Test Started->
+2018-12-28 13:09:59,617  INFO : 21 --  Click on Join free button
+2018-12-28 13:10:02,535  INFO : 98 --  Test 'navigateToJoinFreePage'  PASSED  
+2018-12-28 13:10:02,536  INFO : 107 --  Priority of this method is 1
+
+
+2018-12-28 13:10:02,536  INFO : 109 --  Priority of this method is 1
+2018-12-28 13:10:02,536  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:10:04,741  INFO : 21 --  screenshots/Success//FBSignUpTest_28-Dec-2018__01_10PM/navigateToJoinFreePage/FBSignUpTest.navigateToJoinFreePage.png
+
+
+
+2018-12-28 13:10:04,750  INFO : 92 --  [TestClass name=class scenarios.FBSignUpTest]:navigateToJoinWithFacebookPage--Test Started->
+2018-12-28 13:10:04,805  INFO : 21 --  Click on Join with facebook button
+2018-12-28 13:10:05,240  INFO : 98 --  Test 'navigateToJoinWithFacebookPage'  PASSED  
+2018-12-28 13:10:05,242  INFO : 107 --  Priority of this method is 2
+
+
+2018-12-28 13:10:05,242  INFO : 109 --  Priority of this method is 2
+2018-12-28 13:10:05,246  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:10:07,680  INFO : 21 --  screenshots/Success//FBSignUpTest_28-Dec-2018__01_10PM/navigateToJoinWithFacebookPage/FBSignUpTest.navigateToJoinWithFacebookPage.png
+
+
+
+2018-12-28 13:10:07,682  INFO : 92 --  [TestClass name=class scenarios.FBSignUpTest]:joinWithFacebookLogin--Test Started->
+2018-12-28 13:10:13,624  INFO : 98 --  Test 'joinWithFacebookLogin'  PASSED  
+2018-12-28 13:10:13,624  INFO : 107 --  Priority of this method is 3
+
+
+2018-12-28 13:10:13,625  INFO : 109 --  Priority of this method is 3
+2018-12-28 13:10:13,625  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:10:15,528  INFO : 21 --  screenshots/Success//FBSignUpTest_28-Dec-2018__01_10PM/joinWithFacebookLogin/FBSignUpTest.joinWithFacebookLogin.png
+
+
+
+2018-12-28 13:10:15,850  INFO : 21 --  Closing the browser
+2018-12-28 13:10:15,853  INFO : 60 --  XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2018-12-28 13:10:15,854  INFO : 62 --  X
+2018-12-28 13:10:15,855  INFO : 64 --  X
+2018-12-28 13:10:15,855  INFO : 66 --  X
+
+2018-12-28 13:10:15,856  INFO : 117 --  Chrome_FBSignUpTest--Test Finish->
+
+
+2018-12-28 13:10:15,857  INFO : 86 --  Chrome_RegularSignUpTest--Test start
+
+2018-12-28 13:10:15,857  INFO : 21 --  Selected browser is: chrome
+2018-12-28 13:10:18,256  INFO : 21 --  Before Login
+2018-12-28 13:10:18,256  INFO : 44 --  
+****************************************************************************************
+2018-12-28 13:10:18,256  INFO : 46 --  ****************************************************************************************
+2018-12-28 13:10:18,257  INFO : 48 --  $$$$$$$$$$$$$$$$$$$$$                 RegularSignUpTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2018-12-28 13:10:18,257  INFO : 50 --  ****************************************************************************************
+2018-12-28 13:10:18,257  INFO : 52 --  ****************************************************************************************
+2018-12-28 13:10:18,262  INFO : 92 --  [TestClass name=class scenarios.RegularSignUpTest]:regularSignUpPage--Test Started->
+2018-12-28 13:10:18,263  INFO : 21 --  Entering values for regular sign up page
+2018-12-28 13:10:29,373  INFO : 98 --  Test 'regularSignUpPage'  PASSED  
+2018-12-28 13:10:29,374  INFO : 107 --  Priority of this method is 0
+
+
+2018-12-28 13:10:29,376  INFO : 109 --  Priority of this method is 0
+2018-12-28 13:10:29,377  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:10:31,499  INFO : 21 --  screenshots/Success//RegularSignUpTest_28-Dec-2018__01_10PM/regularSignUpPage/RegularSignUpTest.regularSignUpPage.png
+
+
+
+2018-12-28 13:10:31,747  INFO : 21 --  Closing the browser
+2018-12-28 13:10:31,748  INFO : 60 --  XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2018-12-28 13:10:31,748  INFO : 62 --  X
+2018-12-28 13:10:31,748  INFO : 64 --  X
+2018-12-28 13:10:31,748  INFO : 66 --  X
+
+2018-12-28 13:10:31,749  INFO : 117 --  Chrome_RegularSignUpTest--Test Finish->
+
+
+2018-12-28 13:10:31,749  INFO : 86 --  Chrome_RegularSignInTest--Test start
+
+2018-12-28 13:10:31,750  INFO : 21 --  Selected browser is: chrome
+2018-12-28 13:10:34,053  INFO : 21 --  Before Login
+2018-12-28 13:10:34,053  INFO : 44 --  
+****************************************************************************************
+2018-12-28 13:10:34,054  INFO : 46 --  ****************************************************************************************
+2018-12-28 13:10:34,054  INFO : 48 --  $$$$$$$$$$$$$$$$$$$$$                 RegularSignInTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2018-12-28 13:10:34,054  INFO : 50 --  ****************************************************************************************
+2018-12-28 13:10:34,054  INFO : 52 --  ****************************************************************************************
+2018-12-28 13:10:34,059  INFO : 92 --  [TestClass name=class scenarios.RegularSignInTest]:regularSignInPage--Test Started->
+2018-12-28 13:10:34,060  INFO : 21 --  Entering values for regular sign up page
+2018-12-28 13:10:38,008  INFO : 98 --  Test 'regularSignInPage'  PASSED  
+2018-12-28 13:10:38,010  INFO : 107 --  Priority of this method is 0
+
+
+2018-12-28 13:10:38,011  INFO : 109 --  Priority of this method is 0
+2018-12-28 13:10:38,011  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:10:40,141  INFO : 21 --  screenshots/Success//RegularSignInTest_28-Dec-2018__01_10PM/regularSignInPage/RegularSignInTest.regularSignInPage.png
+
+
+
+2018-12-28 13:10:40,369  INFO : 21 --  Closing the browser
+2018-12-28 13:10:40,370  INFO : 60 --  XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2018-12-28 13:10:40,372  INFO : 62 --  X
+2018-12-28 13:10:40,372  INFO : 64 --  X
+2018-12-28 13:10:40,374  INFO : 66 --  X
+
+2018-12-28 13:10:40,377  INFO : 117 --  Chrome_RegularSignInTest--Test Finish->
+
+
+2018-12-28 13:10:40,380  INFO : 86 --  Chrome_FBSignInTest--Test start
+
+2018-12-28 13:10:40,383  INFO : 21 --  Selected browser is: chrome
+2018-12-28 13:10:42,602  INFO : 21 --  Before Login
+2018-12-28 13:10:42,602  INFO : 44 --  
+****************************************************************************************
+2018-12-28 13:10:42,602  INFO : 46 --  ****************************************************************************************
+2018-12-28 13:10:42,602  INFO : 48 --  $$$$$$$$$$$$$$$$$$$$$                 FBSignInTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2018-12-28 13:10:42,603  INFO : 50 --  ****************************************************************************************
+2018-12-28 13:10:42,603  INFO : 52 --  ****************************************************************************************
+2018-12-28 13:10:42,604  INFO : 92 --  [TestClass name=class scenarios.FBSignInTest]:navigateToCashKaroPage--Test Started->
+2018-12-28 13:10:42,605  INFO : 21 --  Navigating to cashkaro page
+2018-12-28 13:10:45,234  INFO : 98 --  Test 'navigateToCashKaroPage'  PASSED  
+2018-12-28 13:10:45,234  INFO : 107 --  Priority of this method is 0
+
+
+2018-12-28 13:10:45,235  INFO : 109 --  Priority of this method is 0
+2018-12-28 13:10:45,235  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:10:47,256  INFO : 21 --  screenshots/Success//FBSignInTest_28-Dec-2018__01_10PM/navigateToCashKaroPage/FBSignInTest.navigateToCashKaroPage.png
+
+
+
+2018-12-28 13:10:47,257  INFO : 92 --  [TestClass name=class scenarios.FBSignInTest]:navigateToSignInPopup--Test Started->
+2018-12-28 13:10:47,257  INFO : 21 --  Click on Sign-In Link
+2018-12-28 13:10:47,488  INFO : 98 --  Test 'navigateToSignInPopup'  PASSED  
+2018-12-28 13:10:47,489  INFO : 107 --  Priority of this method is 1
+
+
+2018-12-28 13:10:47,489  INFO : 109 --  Priority of this method is 1
+2018-12-28 13:10:47,489  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:10:49,139  INFO : 21 --  screenshots/Success//FBSignInTest_28-Dec-2018__01_10PM/navigateToSignInPopup/FBSignInTest.navigateToSignInPopup.png
+
+
+
+2018-12-28 13:10:49,140  INFO : 92 --  [TestClass name=class scenarios.FBSignInTest]:navigateToFacebookPageSignIn--Test Started->
+2018-12-28 13:10:49,140  INFO : 21 --  Click on Signin with facebook button
+2018-12-28 13:10:49,547  INFO : 98 --  Test 'navigateToFacebookPageSignIn'  PASSED  
+2018-12-28 13:10:49,551  INFO : 107 --  Priority of this method is 2
+
+
+2018-12-28 13:10:49,552  INFO : 109 --  Priority of this method is 2
+2018-12-28 13:10:49,552  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:10:52,139  INFO : 21 --  screenshots/Success//FBSignInTest_28-Dec-2018__01_10PM/navigateToFacebookPageSignIn/FBSignInTest.navigateToFacebookPageSignIn.png
+
+
+
+2018-12-28 13:10:52,140  INFO : 92 --  [TestClass name=class scenarios.FBSignInTest]:joinWithFacebookLogin--Test Started->
+2018-12-28 13:10:57,800  INFO : 98 --  Test 'joinWithFacebookLogin'  PASSED  
+2018-12-28 13:10:57,801  INFO : 107 --  Priority of this method is 3
+
+
+2018-12-28 13:10:57,801  INFO : 109 --  Priority of this method is 3
+2018-12-28 13:10:57,801  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:10:59,774  INFO : 21 --  screenshots/Success//FBSignInTest_28-Dec-2018__01_10PM/joinWithFacebookLogin/FBSignInTest.joinWithFacebookLogin.png
+
+
+
+2018-12-28 13:11:00,126  INFO : 21 --  Closing the browser
+2018-12-28 13:11:00,127  INFO : 60 --  XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2018-12-28 13:11:00,127  INFO : 62 --  X
+2018-12-28 13:11:00,127  INFO : 64 --  X
+2018-12-28 13:11:00,127  INFO : 66 --  X
+
+2018-12-28 13:11:00,128  INFO : 117 --  Chrome_FBSignInTest--Test Finish->
+
+
+2018-12-28 13:11:00,128  INFO : 86 --  Chrome_PasswordReset--Test start
+
+2018-12-28 13:11:00,129  INFO : 21 --  Selected browser is: chrome
+2018-12-28 13:11:02,369  INFO : 21 --  Before Login
+2018-12-28 13:11:02,369  INFO : 44 --  
+****************************************************************************************
+2018-12-28 13:11:02,369  INFO : 46 --  ****************************************************************************************
+2018-12-28 13:11:02,370  INFO : 48 --  $$$$$$$$$$$$$$$$$$$$$                 PasswordReset       $$$$$$$$$$$$$$$$$$$$$$$$$
+2018-12-28 13:11:02,370  INFO : 50 --  ****************************************************************************************
+2018-12-28 13:11:02,370  INFO : 52 --  ****************************************************************************************
+2018-12-28 13:11:02,372  INFO : 92 --  [TestClass name=class scenarios.PasswordReset]:openSignInPopUp--Test Started->
+2018-12-28 13:11:02,372  INFO : 21 --  Entering values for regular sign up page
+2018-12-28 13:11:05,407  INFO : 98 --  Test 'openSignInPopUp'  PASSED  
+2018-12-28 13:11:05,407  INFO : 107 --  Priority of this method is 0
+
+
+2018-12-28 13:11:05,407  INFO : 109 --  Priority of this method is 0
+2018-12-28 13:11:05,408  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:11:07,089  INFO : 21 --  screenshots/Success//PasswordReset_28-Dec-2018__01_11PM/openSignInPopUp/PasswordReset.openSignInPopUp.png
+
+
+
+2018-12-28 13:11:07,090  INFO : 92 --  [TestClass name=class scenarios.PasswordReset]:openForgotPasswordPopUp--Test Started->
+2018-12-28 13:11:07,092  INFO : 21 --  Open forgot password popup
+2018-12-28 13:11:10,616  INFO : 98 --  Test 'openForgotPasswordPopUp'  PASSED  
+2018-12-28 13:11:10,617  INFO : 107 --  Priority of this method is 1
+
+
+2018-12-28 13:11:10,617  INFO : 109 --  Priority of this method is 1
+2018-12-28 13:11:10,617  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:11:12,190  INFO : 21 --  screenshots/Success//PasswordReset_28-Dec-2018__01_11PM/openForgotPasswordPopUp/PasswordReset.openForgotPasswordPopUp.png
+
+
+
+2018-12-28 13:11:12,191  INFO : 92 --  [TestClass name=class scenarios.PasswordReset]:resetPassword--Test Started->
+2018-12-28 13:11:12,192  INFO : 21 --  Reset the password
+2018-12-28 13:11:13,044  INFO : 21 --  addVerificationSuccess Method
+2018-12-28 13:11:13,048  INFO : 21 --  !!!Success !!! - Soft Assertion Pass: 
+2018-12-28 13:11:13,048  INFO : 98 --  Test 'resetPassword'  PASSED  
+2018-12-28 13:11:13,049  INFO : 107 --  Priority of this method is 2
+
+
+2018-12-28 13:11:13,049  INFO : 109 --  Priority of this method is 2
+2018-12-28 13:11:13,049  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:11:14,669  INFO : 21 --  screenshots/Success//PasswordReset_28-Dec-2018__01_11PM/resetPassword/PasswordReset.resetPassword.png
+
+
+
+2018-12-28 13:11:14,902  INFO : 21 --  Closing the browser
+2018-12-28 13:11:14,903  INFO : 60 --  XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2018-12-28 13:11:14,904  INFO : 62 --  X
+2018-12-28 13:11:14,904  INFO : 64 --  X
+2018-12-28 13:11:14,904  INFO : 66 --  X
+
+2018-12-28 13:11:14,904  INFO : 117 --  Chrome_PasswordReset--Test Finish->
+
+
+2018-12-28 13:11:14,905  INFO : 86 --  Firefox_FBSignUpTest--Test start
+
+2018-12-28 13:11:14,906  INFO : 21 --  Selected browser is: firefox
+2018-12-28 13:11:23,890  INFO : 21 --  Before Login
+2018-12-28 13:11:23,891  INFO : 44 --  
+****************************************************************************************
+2018-12-28 13:11:23,891  INFO : 46 --  ****************************************************************************************
+2018-12-28 13:11:23,891  INFO : 48 --  $$$$$$$$$$$$$$$$$$$$$                 FBSignUpTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2018-12-28 13:11:23,892  INFO : 50 --  ****************************************************************************************
+2018-12-28 13:11:23,892  INFO : 52 --  ****************************************************************************************
+2018-12-28 13:11:23,892  INFO : 92 --  [TestClass name=class scenarios.FBSignUpTest]:navigateToCashKaroPage--Test Started->
+2018-12-28 13:11:23,893  INFO : 21 --  Navigating to cashkaro page
+2018-12-28 13:11:30,793  INFO : 98 --  Test 'navigateToCashKaroPage'  PASSED  
+2018-12-28 13:11:30,795  INFO : 107 --  Priority of this method is 0
+
+
+2018-12-28 13:11:30,795  INFO : 109 --  Priority of this method is 0
+2018-12-28 13:11:30,796  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:11:33,354  INFO : 21 --  screenshots/Success//FBSignUpTest_28-Dec-2018__01_11PM/navigateToCashKaroPage/FBSignUpTest.navigateToCashKaroPage.png
+
+
+
+2018-12-28 13:11:33,364  INFO : 92 --  [TestClass name=class scenarios.FBSignUpTest]:navigateToJoinFreePage--Test Started->
+2018-12-28 13:11:33,364  INFO : 21 --  Click on Join free button
+2018-12-28 13:11:37,657  INFO : 98 --  Test 'navigateToJoinFreePage'  PASSED  
+2018-12-28 13:11:37,657  INFO : 107 --  Priority of this method is 1
+
+
+2018-12-28 13:11:37,658  INFO : 109 --  Priority of this method is 1
+2018-12-28 13:11:37,658  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:11:39,817  INFO : 21 --  screenshots/Success//FBSignUpTest_28-Dec-2018__01_11PM/navigateToJoinFreePage/FBSignUpTest.navigateToJoinFreePage.png
+
+
+
+2018-12-28 13:11:39,821  INFO : 92 --  [TestClass name=class scenarios.FBSignUpTest]:navigateToJoinWithFacebookPage--Test Started->
+2018-12-28 13:11:39,945  INFO : 21 --  Click on Join with facebook button
+2018-12-28 13:11:40,927  INFO : 98 --  Test 'navigateToJoinWithFacebookPage'  PASSED  
+2018-12-28 13:11:40,928  INFO : 107 --  Priority of this method is 2
+
+
+2018-12-28 13:11:40,928  INFO : 109 --  Priority of this method is 2
+2018-12-28 13:11:40,928  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:11:43,574  INFO : 21 --  screenshots/Success//FBSignUpTest_28-Dec-2018__01_11PM/navigateToJoinWithFacebookPage/FBSignUpTest.navigateToJoinWithFacebookPage.png
+
+
+
+2018-12-28 13:11:43,576  INFO : 92 --  [TestClass name=class scenarios.FBSignUpTest]:joinWithFacebookLogin--Test Started->
+2018-12-28 13:11:49,236  INFO : 98 --  Test 'joinWithFacebookLogin'  PASSED  
+2018-12-28 13:11:49,237  INFO : 107 --  Priority of this method is 3
+
+
+2018-12-28 13:11:49,238  INFO : 109 --  Priority of this method is 3
+2018-12-28 13:11:49,239  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:11:51,274  INFO : 21 --  screenshots/Success//FBSignUpTest_28-Dec-2018__01_11PM/joinWithFacebookLogin/FBSignUpTest.joinWithFacebookLogin.png
+
+
+
+2018-12-28 13:11:52,511  INFO : 21 --  Closing the browser
+2018-12-28 13:11:52,511  INFO : 60 --  XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2018-12-28 13:11:52,512  INFO : 62 --  X
+2018-12-28 13:11:52,512  INFO : 64 --  X
+2018-12-28 13:11:52,512  INFO : 66 --  X
+
+2018-12-28 13:11:52,515  INFO : 117 --  Firefox_FBSignUpTest--Test Finish->
+
+
+2018-12-28 13:11:52,516  INFO : 86 --  Firefox_RegularSignUpTest--Test start
+
+2018-12-28 13:11:52,516  INFO : 21 --  Selected browser is: firefox
+2018-12-28 13:12:01,102  INFO : 21 --  Before Login
+2018-12-28 13:12:01,103  INFO : 44 --  
+****************************************************************************************
+2018-12-28 13:12:01,103  INFO : 46 --  ****************************************************************************************
+2018-12-28 13:12:01,103  INFO : 48 --  $$$$$$$$$$$$$$$$$$$$$                 RegularSignUpTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2018-12-28 13:12:01,104  INFO : 50 --  ****************************************************************************************
+2018-12-28 13:12:01,104  INFO : 52 --  ****************************************************************************************
+2018-12-28 13:12:01,106  INFO : 92 --  [TestClass name=class scenarios.RegularSignUpTest]:regularSignUpPage--Test Started->
+2018-12-28 13:12:01,106  INFO : 21 --  Entering values for regular sign up page
+2018-12-28 13:12:13,377 ERROR : 130 --  Test 'regularSignUpPage' FAILED
+2018-12-28 13:12:13,380 ERROR : 131 --  [TestResult name=regularSignUpPage status=FAILURE method=RegularSignUpTest.regularSignUpPage()[pri:0, instance:scenarios.RegularSignUpTest@1f28c152] output={null}]
+2018-12-28 13:12:13,382 ERROR : 132 --  org.openqa.selenium.ElementNotInteractableException: Element <input id="pwd-txt" class="required" name="pwd-txt" type="text"> could not be scrolled into view
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Sadiq.corp.logistimo.com', ip: 'fe80:0:0:0:cf7:dec4:7746:179%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 64.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 15752, moz:profile: /var/folders/bd/6w_f53cx4s7..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 18.2.0, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: facf826a-12e5-8c49-a720-a6b67aafd8cb
+2018-12-28 13:12:13,382 ERROR : 134 --  Priority of this method is 0
+
+
+2018-12-28 13:12:13,383 ERROR : 136 --  Priority of this method is 0
+2018-12-28 13:12:13,383  INFO : 137 --  ###### ###### ###### ###### ###### ######
+
+2018-12-28 13:12:15,487  INFO : 21 --  screenshots/Failure/RegularSignUpTest_28-Dec-2018__01_12PM/regularSignUpPage/RegularSignUpTest.regularSignUpPage.png
+
+
+
+2018-12-28 13:12:16,559  INFO : 21 --  Closing the browser
+2018-12-28 13:12:16,560  INFO : 60 --  XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2018-12-28 13:12:16,560  INFO : 62 --  X
+2018-12-28 13:12:16,561  INFO : 64 --  X
+2018-12-28 13:12:16,561  INFO : 66 --  X
+
+2018-12-28 13:12:16,562  INFO : 117 --  Firefox_RegularSignUpTest--Test Finish->
+
+
+2018-12-28 13:12:16,563  INFO : 86 --  Firefox_RegularSignInTest--Test start
+
+2018-12-28 13:12:16,563  INFO : 21 --  Selected browser is: firefox
+2018-12-28 13:12:25,005  INFO : 21 --  Before Login
+2018-12-28 13:12:25,005  INFO : 44 --  
+****************************************************************************************
+2018-12-28 13:12:25,005  INFO : 46 --  ****************************************************************************************
+2018-12-28 13:12:25,005  INFO : 48 --  $$$$$$$$$$$$$$$$$$$$$                 RegularSignInTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2018-12-28 13:12:25,005  INFO : 50 --  ****************************************************************************************
+2018-12-28 13:12:25,005  INFO : 52 --  ****************************************************************************************
+2018-12-28 13:12:25,007  INFO : 92 --  [TestClass name=class scenarios.RegularSignInTest]:regularSignInPage--Test Started->
+2018-12-28 13:12:25,007  INFO : 21 --  Entering values for regular sign up page
+2018-12-28 13:12:33,864  INFO : 98 --  Test 'regularSignInPage'  PASSED  
+2018-12-28 13:12:33,865  INFO : 107 --  Priority of this method is 0
+
+
+2018-12-28 13:12:33,865  INFO : 109 --  Priority of this method is 0
+2018-12-28 13:12:33,866  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:12:35,841  INFO : 21 --  screenshots/Success//RegularSignInTest_28-Dec-2018__01_12PM/regularSignInPage/RegularSignInTest.regularSignInPage.png
+
+
+
+2018-12-28 13:12:36,861  INFO : 21 --  Closing the browser
+2018-12-28 13:12:36,862  INFO : 60 --  XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2018-12-28 13:12:36,862  INFO : 62 --  X
+2018-12-28 13:12:36,862  INFO : 64 --  X
+2018-12-28 13:12:36,862  INFO : 66 --  X
+
+2018-12-28 13:12:36,863  INFO : 117 --  Firefox_RegularSignInTest--Test Finish->
+
+
+2018-12-28 13:12:36,863  INFO : 86 --  Firefox_FBSignInTest--Test start
+
+2018-12-28 13:12:36,864  INFO : 21 --  Selected browser is: firefox
+2018-12-28 13:12:45,588  INFO : 21 --  Before Login
+2018-12-28 13:12:45,589  INFO : 44 --  
+****************************************************************************************
+2018-12-28 13:12:45,589  INFO : 46 --  ****************************************************************************************
+2018-12-28 13:12:45,589  INFO : 48 --  $$$$$$$$$$$$$$$$$$$$$                 FBSignInTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2018-12-28 13:12:45,589  INFO : 50 --  ****************************************************************************************
+2018-12-28 13:12:45,590  INFO : 52 --  ****************************************************************************************
+2018-12-28 13:12:45,591  INFO : 92 --  [TestClass name=class scenarios.FBSignInTest]:navigateToCashKaroPage--Test Started->
+2018-12-28 13:12:45,592  INFO : 21 --  Navigating to cashkaro page
+2018-12-28 13:12:50,805  INFO : 98 --  Test 'navigateToCashKaroPage'  PASSED  
+2018-12-28 13:12:50,806  INFO : 107 --  Priority of this method is 0
+
+
+2018-12-28 13:12:50,806  INFO : 109 --  Priority of this method is 0
+2018-12-28 13:12:50,806  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:12:53,154  INFO : 21 --  screenshots/Success//FBSignInTest_28-Dec-2018__01_12PM/navigateToCashKaroPage/FBSignInTest.navigateToCashKaroPage.png
+
+
+
+2018-12-28 13:12:53,158  INFO : 92 --  [TestClass name=class scenarios.FBSignInTest]:navigateToSignInPopup--Test Started->
+2018-12-28 13:12:53,160  INFO : 21 --  Click on Sign-In Link
+2018-12-28 13:12:53,530  INFO : 98 --  Test 'navigateToSignInPopup'  PASSED  
+2018-12-28 13:12:53,532  INFO : 107 --  Priority of this method is 1
+
+
+2018-12-28 13:12:53,532  INFO : 109 --  Priority of this method is 1
+2018-12-28 13:12:53,533  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:12:54,895  INFO : 21 --  screenshots/Success//FBSignInTest_28-Dec-2018__01_12PM/navigateToSignInPopup/FBSignInTest.navigateToSignInPopup.png
+
+
+
+2018-12-28 13:12:54,897  INFO : 92 --  [TestClass name=class scenarios.FBSignInTest]:navigateToFacebookPageSignIn--Test Started->
+2018-12-28 13:12:54,898  INFO : 21 --  Click on Signin with facebook button
+2018-12-28 13:12:55,922  INFO : 98 --  Test 'navigateToFacebookPageSignIn'  PASSED  
+2018-12-28 13:12:55,923  INFO : 107 --  Priority of this method is 2
+
+
+2018-12-28 13:12:55,923  INFO : 109 --  Priority of this method is 2
+2018-12-28 13:12:55,923  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:12:57,850  INFO : 21 --  screenshots/Success//FBSignInTest_28-Dec-2018__01_12PM/navigateToFacebookPageSignIn/FBSignInTest.navigateToFacebookPageSignIn.png
+
+
+
+2018-12-28 13:12:57,853  INFO : 92 --  [TestClass name=class scenarios.FBSignInTest]:joinWithFacebookLogin--Test Started->
+2018-12-28 13:13:03,344  INFO : 98 --  Test 'joinWithFacebookLogin'  PASSED  
+2018-12-28 13:13:03,346  INFO : 107 --  Priority of this method is 3
+
+
+2018-12-28 13:13:03,352  INFO : 109 --  Priority of this method is 3
+2018-12-28 13:13:03,352  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:13:05,997  INFO : 21 --  screenshots/Success//FBSignInTest_28-Dec-2018__01_13PM/joinWithFacebookLogin/FBSignInTest.joinWithFacebookLogin.png
+
+
+
+2018-12-28 13:13:07,046  INFO : 21 --  Closing the browser
+2018-12-28 13:13:07,047  INFO : 60 --  XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2018-12-28 13:13:07,047  INFO : 62 --  X
+2018-12-28 13:13:07,047  INFO : 64 --  X
+2018-12-28 13:13:07,047  INFO : 66 --  X
+
+2018-12-28 13:13:07,047  INFO : 117 --  Firefox_FBSignInTest--Test Finish->
+
+
+2018-12-28 13:13:07,048  INFO : 86 --  Firefox_PasswordReset--Test start
+
+2018-12-28 13:13:07,048  INFO : 21 --  Selected browser is: firefox
+2018-12-28 13:13:15,567  INFO : 21 --  Before Login
+2018-12-28 13:13:15,567  INFO : 44 --  
+****************************************************************************************
+2018-12-28 13:13:15,567  INFO : 46 --  ****************************************************************************************
+2018-12-28 13:13:15,567  INFO : 48 --  $$$$$$$$$$$$$$$$$$$$$                 PasswordReset       $$$$$$$$$$$$$$$$$$$$$$$$$
+2018-12-28 13:13:15,568  INFO : 50 --  ****************************************************************************************
+2018-12-28 13:13:15,568  INFO : 52 --  ****************************************************************************************
+2018-12-28 13:13:15,569  INFO : 92 --  [TestClass name=class scenarios.PasswordReset]:openSignInPopUp--Test Started->
+2018-12-28 13:13:15,569  INFO : 21 --  Entering values for regular sign up page
+2018-12-28 13:13:20,630  INFO : 98 --  Test 'openSignInPopUp'  PASSED  
+2018-12-28 13:13:20,631  INFO : 107 --  Priority of this method is 0
+
+
+2018-12-28 13:13:20,631  INFO : 109 --  Priority of this method is 0
+2018-12-28 13:13:20,632  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:13:22,215  INFO : 21 --  screenshots/Success//PasswordReset_28-Dec-2018__01_13PM/openSignInPopUp/PasswordReset.openSignInPopUp.png
+
+
+
+2018-12-28 13:13:22,216  INFO : 92 --  [TestClass name=class scenarios.PasswordReset]:openForgotPasswordPopUp--Test Started->
+2018-12-28 13:13:22,217  INFO : 21 --  Open forgot password popup
+2018-12-28 13:13:25,774  INFO : 98 --  Test 'openForgotPasswordPopUp'  PASSED  
+2018-12-28 13:13:25,775  INFO : 107 --  Priority of this method is 1
+
+
+2018-12-28 13:13:25,775  INFO : 109 --  Priority of this method is 1
+2018-12-28 13:13:25,775  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:13:26,913  INFO : 21 --  screenshots/Success//PasswordReset_28-Dec-2018__01_13PM/openForgotPasswordPopUp/PasswordReset.openForgotPasswordPopUp.png
+
+
+
+2018-12-28 13:13:26,914  INFO : 92 --  [TestClass name=class scenarios.PasswordReset]:resetPassword--Test Started->
+2018-12-28 13:13:26,915  INFO : 21 --  Reset the password
+2018-12-28 13:13:28,187  INFO : 21 --  addVerificationSuccess Method
+2018-12-28 13:13:28,195  INFO : 21 --  !!!Success !!! - Soft Assertion Pass: 
+2018-12-28 13:13:28,196  INFO : 98 --  Test 'resetPassword'  PASSED  
+2018-12-28 13:13:28,196  INFO : 107 --  Priority of this method is 2
+
+
+2018-12-28 13:13:28,196  INFO : 109 --  Priority of this method is 2
+2018-12-28 13:13:28,196  INFO : 110 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2018-12-28 13:13:29,356  INFO : 21 --  screenshots/Success//PasswordReset_28-Dec-2018__01_13PM/resetPassword/PasswordReset.resetPassword.png
+
+
+
+2018-12-28 13:13:30,503  INFO : 21 --  Closing the browser
+2018-12-28 13:13:30,504  INFO : 60 --  XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2018-12-28 13:13:30,504  INFO : 62 --  X
+2018-12-28 13:13:30,504  INFO : 64 --  X
+2018-12-28 13:13:30,505  INFO : 66 --  X
+
+2018-12-28 13:13:30,505  INFO : 117 --  Firefox_PasswordReset--Test Finish->
+
+

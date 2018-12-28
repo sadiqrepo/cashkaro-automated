@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Chrome_Joinfreetest"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.160">
+  <properties />
+  
+  
+            <testcase name="joinWithFacebookLogin" time="6.931" classname="scenarios.FBSignUpTest" />
+                <testcase name="navigateToCashKaroPage" time="2.790" classname="scenarios.FBSignUpTest" />
+                <testcase name="navigateToJoinWithFacebookPage" time="0.466" classname="scenarios.FBSignUpTest" />
+                <testcase name="navigateToJoinFreePage" time="0.973" classname="scenarios.FBSignUpTest" />
+      
+</testsuite>

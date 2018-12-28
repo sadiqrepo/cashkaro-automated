@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Chrome_RegularSignInTest"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.949">
+  <properties />
+  
+  
+            <testcase name="regularSignInPage" time="3.949" classname="scenarios.RegularSignInTest" />
+      
+</testsuite>

@@ -1,0 +1,535 @@
+Chrome_FBSignUpTest--Test start
+
+Selected browser is: chrome
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 FBSignUpTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+[TestClass name=class scenarios.FBSignUpTest]:navigateToCashKaroPage--Test Started->
+Navigating to cashkaro page
+Test 'navigateToCashKaroPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignUpTest_28-Dec-2018__01_09PM/navigateToCashKaroPage/FBSignUpTest.navigateToCashKaroPage.png
+
+
+
+[TestClass name=class scenarios.FBSignUpTest]:navigateToJoinFreePage--Test Started->
+Click on Join free button
+Test 'navigateToJoinFreePage'  PASSED  
+Priority of this method is 1
+
+
+Priority of this method is 1
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignUpTest_28-Dec-2018__01_10PM/navigateToJoinFreePage/FBSignUpTest.navigateToJoinFreePage.png
+
+
+
+[TestClass name=class scenarios.FBSignUpTest]:navigateToJoinWithFacebookPage--Test Started->
+Click on Join with facebook button
+Test 'navigateToJoinWithFacebookPage'  PASSED  
+Priority of this method is 2
+
+
+Priority of this method is 2
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignUpTest_28-Dec-2018__01_10PM/navigateToJoinWithFacebookPage/FBSignUpTest.navigateToJoinWithFacebookPage.png
+
+
+
+[TestClass name=class scenarios.FBSignUpTest]:joinWithFacebookLogin--Test Started->
+Test 'joinWithFacebookLogin'  PASSED  
+Priority of this method is 3
+
+
+Priority of this method is 3
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignUpTest_28-Dec-2018__01_10PM/joinWithFacebookLogin/FBSignUpTest.joinWithFacebookLogin.png
+
+
+
+Closing the browser
+XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+
+Chrome_FBSignUpTest--Test Finish->
+
+
+Chrome_RegularSignUpTest--Test start
+
+Selected browser is: chrome
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 RegularSignUpTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+[TestClass name=class scenarios.RegularSignUpTest]:regularSignUpPage--Test Started->
+Entering values for regular sign up page
+Test 'regularSignUpPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//RegularSignUpTest_28-Dec-2018__01_10PM/regularSignUpPage/RegularSignUpTest.regularSignUpPage.png
+
+
+
+Closing the browser
+XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+
+Chrome_RegularSignUpTest--Test Finish->
+
+
+Chrome_RegularSignInTest--Test start
+
+Selected browser is: chrome
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 RegularSignInTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+[TestClass name=class scenarios.RegularSignInTest]:regularSignInPage--Test Started->
+Entering values for regular sign up page
+Test 'regularSignInPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//RegularSignInTest_28-Dec-2018__01_10PM/regularSignInPage/RegularSignInTest.regularSignInPage.png
+
+
+
+Closing the browser
+XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+
+Chrome_RegularSignInTest--Test Finish->
+
+
+Chrome_FBSignInTest--Test start
+
+Selected browser is: chrome
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 FBSignInTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+[TestClass name=class scenarios.FBSignInTest]:navigateToCashKaroPage--Test Started->
+Navigating to cashkaro page
+Test 'navigateToCashKaroPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignInTest_28-Dec-2018__01_10PM/navigateToCashKaroPage/FBSignInTest.navigateToCashKaroPage.png
+
+
+
+[TestClass name=class scenarios.FBSignInTest]:navigateToSignInPopup--Test Started->
+Click on Sign-In Link
+Test 'navigateToSignInPopup'  PASSED  
+Priority of this method is 1
+
+
+Priority of this method is 1
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignInTest_28-Dec-2018__01_10PM/navigateToSignInPopup/FBSignInTest.navigateToSignInPopup.png
+
+
+
+[TestClass name=class scenarios.FBSignInTest]:navigateToFacebookPageSignIn--Test Started->
+Click on Signin with facebook button
+Test 'navigateToFacebookPageSignIn'  PASSED  
+Priority of this method is 2
+
+
+Priority of this method is 2
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignInTest_28-Dec-2018__01_10PM/navigateToFacebookPageSignIn/FBSignInTest.navigateToFacebookPageSignIn.png
+
+
+
+[TestClass name=class scenarios.FBSignInTest]:joinWithFacebookLogin--Test Started->
+Test 'joinWithFacebookLogin'  PASSED  
+Priority of this method is 3
+
+
+Priority of this method is 3
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignInTest_28-Dec-2018__01_10PM/joinWithFacebookLogin/FBSignInTest.joinWithFacebookLogin.png
+
+
+
+Closing the browser
+XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+
+Chrome_FBSignInTest--Test Finish->
+
+
+Chrome_PasswordReset--Test start
+
+Selected browser is: chrome
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 PasswordReset       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+[TestClass name=class scenarios.PasswordReset]:openSignInPopUp--Test Started->
+Entering values for regular sign up page
+Test 'openSignInPopUp'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//PasswordReset_28-Dec-2018__01_11PM/openSignInPopUp/PasswordReset.openSignInPopUp.png
+
+
+
+[TestClass name=class scenarios.PasswordReset]:openForgotPasswordPopUp--Test Started->
+Open forgot password popup
+Test 'openForgotPasswordPopUp'  PASSED  
+Priority of this method is 1
+
+
+Priority of this method is 1
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//PasswordReset_28-Dec-2018__01_11PM/openForgotPasswordPopUp/PasswordReset.openForgotPasswordPopUp.png
+
+
+
+[TestClass name=class scenarios.PasswordReset]:resetPassword--Test Started->
+Reset the password
+addVerificationSuccess Method
+!!!Success !!! - Soft Assertion Pass: 
+Test 'resetPassword'  PASSED  
+Priority of this method is 2
+
+
+Priority of this method is 2
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//PasswordReset_28-Dec-2018__01_11PM/resetPassword/PasswordReset.resetPassword.png
+
+
+
+Closing the browser
+XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+
+Chrome_PasswordReset--Test Finish->
+
+
+Firefox_FBSignUpTest--Test start
+
+Selected browser is: firefox
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 FBSignUpTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+[TestClass name=class scenarios.FBSignUpTest]:navigateToCashKaroPage--Test Started->
+Navigating to cashkaro page
+Test 'navigateToCashKaroPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignUpTest_28-Dec-2018__01_11PM/navigateToCashKaroPage/FBSignUpTest.navigateToCashKaroPage.png
+
+
+
+[TestClass name=class scenarios.FBSignUpTest]:navigateToJoinFreePage--Test Started->
+Click on Join free button
+Test 'navigateToJoinFreePage'  PASSED  
+Priority of this method is 1
+
+
+Priority of this method is 1
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignUpTest_28-Dec-2018__01_11PM/navigateToJoinFreePage/FBSignUpTest.navigateToJoinFreePage.png
+
+
+
+[TestClass name=class scenarios.FBSignUpTest]:navigateToJoinWithFacebookPage--Test Started->
+Click on Join with facebook button
+Test 'navigateToJoinWithFacebookPage'  PASSED  
+Priority of this method is 2
+
+
+Priority of this method is 2
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignUpTest_28-Dec-2018__01_11PM/navigateToJoinWithFacebookPage/FBSignUpTest.navigateToJoinWithFacebookPage.png
+
+
+
+[TestClass name=class scenarios.FBSignUpTest]:joinWithFacebookLogin--Test Started->
+Test 'joinWithFacebookLogin'  PASSED  
+Priority of this method is 3
+
+
+Priority of this method is 3
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignUpTest_28-Dec-2018__01_11PM/joinWithFacebookLogin/FBSignUpTest.joinWithFacebookLogin.png
+
+
+
+Closing the browser
+XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+
+Firefox_FBSignUpTest--Test Finish->
+
+
+Firefox_RegularSignUpTest--Test start
+
+Selected browser is: firefox
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 RegularSignUpTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+[TestClass name=class scenarios.RegularSignUpTest]:regularSignUpPage--Test Started->
+Entering values for regular sign up page
+Test 'regularSignUpPage' FAILED
+[TestResult name=regularSignUpPage status=FAILURE method=RegularSignUpTest.regularSignUpPage()[pri:0, instance:scenarios.RegularSignUpTest@1f28c152] output={null}]
+org.openqa.selenium.ElementNotInteractableException: Element <input id="pwd-txt" class="required" name="pwd-txt" type="text"> could not be scrolled into view
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Sadiq.corp.logistimo.com', ip: 'fe80:0:0:0:cf7:dec4:7746:179%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 64.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 15752, moz:profile: /var/folders/bd/6w_f53cx4s7..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 18.2.0, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: facf826a-12e5-8c49-a720-a6b67aafd8cb
+Priority of this method is 0
+
+
+Priority of this method is 0
+###### ###### ###### ###### ###### ######
+
+screenshots/Failure/RegularSignUpTest_28-Dec-2018__01_12PM/regularSignUpPage/RegularSignUpTest.regularSignUpPage.png
+
+
+
+Closing the browser
+XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+
+Firefox_RegularSignUpTest--Test Finish->
+
+
+Firefox_RegularSignInTest--Test start
+
+Selected browser is: firefox
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 RegularSignInTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+[TestClass name=class scenarios.RegularSignInTest]:regularSignInPage--Test Started->
+Entering values for regular sign up page
+Test 'regularSignInPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//RegularSignInTest_28-Dec-2018__01_12PM/regularSignInPage/RegularSignInTest.regularSignInPage.png
+
+
+
+Closing the browser
+XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+
+Firefox_RegularSignInTest--Test Finish->
+
+
+Firefox_FBSignInTest--Test start
+
+Selected browser is: firefox
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 FBSignInTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+[TestClass name=class scenarios.FBSignInTest]:navigateToCashKaroPage--Test Started->
+Navigating to cashkaro page
+Test 'navigateToCashKaroPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignInTest_28-Dec-2018__01_12PM/navigateToCashKaroPage/FBSignInTest.navigateToCashKaroPage.png
+
+
+
+[TestClass name=class scenarios.FBSignInTest]:navigateToSignInPopup--Test Started->
+Click on Sign-In Link
+Test 'navigateToSignInPopup'  PASSED  
+Priority of this method is 1
+
+
+Priority of this method is 1
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignInTest_28-Dec-2018__01_12PM/navigateToSignInPopup/FBSignInTest.navigateToSignInPopup.png
+
+
+
+[TestClass name=class scenarios.FBSignInTest]:navigateToFacebookPageSignIn--Test Started->
+Click on Signin with facebook button
+Test 'navigateToFacebookPageSignIn'  PASSED  
+Priority of this method is 2
+
+
+Priority of this method is 2
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignInTest_28-Dec-2018__01_12PM/navigateToFacebookPageSignIn/FBSignInTest.navigateToFacebookPageSignIn.png
+
+
+
+[TestClass name=class scenarios.FBSignInTest]:joinWithFacebookLogin--Test Started->
+Test 'joinWithFacebookLogin'  PASSED  
+Priority of this method is 3
+
+
+Priority of this method is 3
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//FBSignInTest_28-Dec-2018__01_13PM/joinWithFacebookLogin/FBSignInTest.joinWithFacebookLogin.png
+
+
+
+Closing the browser
+XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+
+Firefox_FBSignInTest--Test Finish->
+
+
+Firefox_PasswordReset--Test start
+
+Selected browser is: firefox
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 PasswordReset       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+[TestClass name=class scenarios.PasswordReset]:openSignInPopUp--Test Started->
+Entering values for regular sign up page
+Test 'openSignInPopUp'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//PasswordReset_28-Dec-2018__01_13PM/openSignInPopUp/PasswordReset.openSignInPopUp.png
+
+
+
+[TestClass name=class scenarios.PasswordReset]:openForgotPasswordPopUp--Test Started->
+Open forgot password popup
+Test 'openForgotPasswordPopUp'  PASSED  
+Priority of this method is 1
+
+
+Priority of this method is 1
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//PasswordReset_28-Dec-2018__01_13PM/openForgotPasswordPopUp/PasswordReset.openForgotPasswordPopUp.png
+
+
+
+[TestClass name=class scenarios.PasswordReset]:resetPassword--Test Started->
+Reset the password
+addVerificationSuccess Method
+!!!Success !!! - Soft Assertion Pass: 
+Test 'resetPassword'  PASSED  
+Priority of this method is 2
+
+
+Priority of this method is 2
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//PasswordReset_28-Dec-2018__01_13PM/resetPassword/PasswordReset.resetPassword.png
+
+
+
+Closing the browser
+XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+
+Firefox_PasswordReset--Test Finish->
+
+

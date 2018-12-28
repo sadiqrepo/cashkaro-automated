@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="testrun" verbose="1" >
+
+    <listeners>
+
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <listener class-name="util.LogUtil" />
+        <listener class-name="util.ScreenshotUtil" />
+
+    </listeners>
+
+    <!--Chrome tests below-->
+
+    <test name="Chrome_FBSignUpTest" preserve-order="true">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="scenarios.FBSignUpTest" />
+        </classes>
+    </test>
+
+    <test name="Chrome_RegularSignUpTest" preserve-order="true">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="scenarios.RegularSignUpTest" />
+        </classes>
+    </test>
+
+    <test name="Chrome_RegularSignInTest" preserve-order="true">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="scenarios.RegularSignInTest" />
+        </classes>
+    </test>
+
+    <test name="Chrome_FBSignInTest" preserve-order="true">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="scenarios.FBSignInTest" />
+        </classes>
+    </test>
+
+    <test name="Chrome_PasswordReset" preserve-order="true">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="scenarios.PasswordReset" />
+        </classes>
+    </test>
+
+
+    <!--Firefox tests below-->
+
+    <test name="Firefox_FBSignUpTest" preserve-order="true">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="scenarios.FBSignUpTest" />
+        </classes>
+    </test>
+
+    <test name="Firefox_RegularSignUpTest" preserve-order="true">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="scenarios.RegularSignUpTest" />
+        </classes>
+    </test>
+
+    <test name="Firefox_RegularSignInTest" preserve-order="true">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="scenarios.RegularSignInTest" />
+        </classes>
+    </test>
+    <test name="Firefox_FBSignInTest" preserve-order="true">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="scenarios.FBSignInTest" />
+        </classes>
+    </test>
+    <test name="Firefox_PasswordReset" preserve-order="true">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="scenarios.PasswordReset" />
+        </classes>
+    </test>
+
+
+
+
+</suite>
